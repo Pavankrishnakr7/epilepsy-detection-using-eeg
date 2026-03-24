@@ -32,6 +32,12 @@ To build an AI-based system that can automatically detect epilepsy from EEG sign
 ## 📊 Results
 - Achieved 93% accuracy** (update this)
 - Efficient classification of seizure vs non-seizure signals
+- Achieved working seizure detection model using LSTM with normalized EEG signals.
+## 🔄 Workflow
+1. Load EEG data
+2. Preprocess signals (normalization)
+3. Train LSTM model
+4. Evaluate accuracy
 
 ---
 
